@@ -4,7 +4,7 @@ Background Color Changer Application
 
 ![thumbnail](./Image/ColorChanger.png)
 
-It took me around 2-3 hours to create this application.
+It took me around 15-20 minutes to create this application.
 
 Technology Used:
 - HTML
